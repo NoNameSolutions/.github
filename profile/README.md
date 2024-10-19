@@ -3,7 +3,7 @@
 ## This is Our Project
 Our AI algorithms continuously monitor trends and patterns, identifying anomalies and inefficiencies across all logs. By leveraging machine learning models, we can predict potential issues, enabling proactive interventions and optimizing overall system performance.
 
-With this AI-driven analysis, the dashboards go beyond basic data visualization, offering deeper, actionable insights. We move beyond simple data presentation to deliver actionable intelligence.
+With this AI-driven analysis, our dashboards go beyond basic data visualization, offering deeper, actionable insights. We move beyond simple data presentation to deliver actionable intelligence.
 
 We welcome contributions to this project, so feel free to reach out if you'd like to get involved!
 
