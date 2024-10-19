@@ -5,7 +5,6 @@ NoNameSolutions is an open-source project creating AI-powered tools to automate 
 
 Our AI algorithms continuously monitor trends and patterns in all logs, detecting potential issues, anomalies, and inefficiencies.
 
-### Our dashboards go beyond basic data visualization, offering deeper, actionable insights
 This AI-generated insights are automatically summarized and delivered through our dashboards, ensuring decision-makers get not only a snapshot of the current state but also predictive recommendations.
 
 
