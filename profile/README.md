@@ -23,7 +23,7 @@ For example, the AI models can be set to:
 
 The AI-generated insights are automatically summarized and delivered through the dashboards, ensuring decision-makers get not only a snapshot of the current state but also predictive recommendations to enhance operations. The dashboards operate on a need-to-know principle: if no alerts are present, the dashboard remains blank.
 
-With this added layer of AI analysis, the D8S dashboards move beyond simple data presentation to providing deeper, actionable intelligence. Let me know if you'd like to expand on specific AI models or techniques!
+### With this added layer of AI analysis, the dashboards move beyond simple data presentation to providing deeper, actionable intelligence.
 
 ## Key Components:
 1. **Data Collection**:
