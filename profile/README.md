@@ -9,7 +9,7 @@ We welcome contributions to this project, so feel free to reach out if you'd lik
 
 ## AI-Driven Analysis:
 
-In addition to gathering data, NNS leverages AI to analyze collected metrics and provide actionable insights. 
+In addition to gathering data, our AI-models leverages to analyze collected metrics and provide actionable insights.  
 
 The AI algorithms continuously monitor trends and patterns, identifying anomalies or inefficiencies across the systems. 
 
