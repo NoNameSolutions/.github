@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## This is Our Project
-NoNameSolutions is an open-source project creating AI-powered tools to automate the collection, analysis, and presentation of critical data from various systems
+NoNameSolutions is an open-source project creating AI-powered tools to automate the collection, analysis, and presentation of critical data from various systems.
 
 Our AI algorithms continuously monitor trends and patterns in all logs, detecting potential issues, anomalies, and inefficiencies.
 
